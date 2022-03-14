@@ -1,0 +1,10 @@
+
+get https://5e4bfc87a641ed0014b02740.mockapi.io/api/clane/news/19/comments HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "newsId": 19,
+#     "name": "Jan Wuckert",
+#     "avatar": "http://lorempixel.com/640/480/fashion",
+#     "comment": "This is me saying you're bluffing!"
+# }
